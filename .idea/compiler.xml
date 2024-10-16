@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Bukkit" target="11" />
+      <module name="Bukkit.main" target="11" />
+      <module name="Bukkit.test" target="11" />
+      <module name="Bukkit_Plugin" target="11" />
+      <module name="Bukkit_Plugin.main" target="11" />
+      <module name="Bukkit_Plugin.test" target="11" />
+      <module name="Core" target="11" />
+      <module name="Core.main" target="11" />
+      <module name="Core.test" target="11" />
+      <module name="SimpleJiangLib_Bukkit" target="11" />
+      <module name="SimpleJiangLib_Bukkit.main" target="11" />
+      <module name="SimpleJiangLib_Bukkit.test" target="11" />
+      <module name="SimpleJiangLib_Bukkit_Plugin" target="11" />
+      <module name="SimpleJiangLib_Bukkit_Plugin.main" target="11" />
+      <module name="SimpleJiangLib_Bukkit_Plugin.test" target="11" />
+      <module name="SimpleJiangLib_Core" target="11" />
+      <module name="SimpleJiangLib_Core.main" target="11" />
+      <module name="SimpleJiangLib_Core.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
